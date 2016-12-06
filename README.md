@@ -45,10 +45,11 @@ A robust php framework that the php community has ever seen .
     20 . Integrated product development support. Will have licensing features .
 
 
-Eventually will develop one compiler which can compile java , c, c++ from php itself along with php 7 JIT
-Will develop own compiler which will convert tokens to assembly directly which will be faster than byte code leading to compete java benchrk
-One framework - isolated components  - Devs will not be forced to use all features . They can use or may not .
+  Eventually will develop one compiler which can compile java , c, c++ from php itself along with php 7 JIT.
+  Will develop own compiler which will convert tokens to assembly directly which will be faster than byte code leading to       compete java benchmark. 
+  
+  One framework - isolated components  - Devs will not be forced to use all features . They can use or may not .
 
-No forced restriction on code development  apart from code quality .
+  No forced restriction on code development  apart from code quality .
 
-This is what i thought of as per now. 
+  This is what i thought of as per now. 
