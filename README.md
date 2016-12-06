@@ -4,7 +4,8 @@ A robust php framework that the php community has ever seen .
 #  LAKIN - A GAME CHANGER PHP FRAMEWORK
 
   Features  : 
-    1. Flexibility for dev to do whatever they want.
+  
+    1 . Flexibility for dev to do whatever they want.
 
     2 . Inbuilt debugger, profiler 
 
